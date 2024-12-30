@@ -1,1 +1,4 @@
+heapq
+tabulate
+pytest
 
